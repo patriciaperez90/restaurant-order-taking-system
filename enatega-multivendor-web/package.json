@@ -8,6 +8,7 @@
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^6.4.4",
     "@mui/lab": "^5.0.0-alpha.48",
+
     "@mui/material": "^6.4.4",
     "@mui/styles": "^6.4.6",
     "@react-google-maps/api": "^2.0.2",
